@@ -1,3 +1,3 @@
 layout: page
 title: "Sparlectra"
-permalink: /sparklectra/
+permalink: /sparlectra/
