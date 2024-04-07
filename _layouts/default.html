@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Hier kommen deine Kopfdaten -->
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <!-- Hier kommt der Navigationsbereich -->
+    <nav>
+        <ul>
+            <li><a href="{{ site.baseurl }}/index.html">Home</a></li>
+            <!-- Füge den folgenden Listeneintrag für den sparlectra-Ordner hinzu -->
+            <li><a href="{{ site.baseurl }}/sparlectra/">Sparlectra</a></li>
+            <!-- Weitere Navigationslinks können hier hinzugefügt werden -->
+        </ul>
+    </nav>
+
+    <!-- Hier kommt der Inhalt deiner Seite -->
+    {{ content }}
+</body>
+</html>
