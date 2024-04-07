@@ -1,4 +1,4 @@
 # Sparlectra
 layout: page
 title: "Sparlectra"
-permalink: /sparlectra/
+permalink: /Sparlectra.jl/
